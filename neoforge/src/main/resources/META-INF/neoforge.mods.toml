@@ -1,11 +1,15 @@
 modLoader = "javafml"
 loaderVersion = "[1,)"
 license = "${mod_license}"
+issueTrackerURL = "https://github.com/contsulia-real/Buck/issues"
 
 [[mods]]
 modId = "${mod_id}"
 version = "${mod_version}"
 displayName = "${mod_name}"
+authors = "Contsulia"
+displayURL = "https://github.com/contsulia-real/Buck"
+logoFile = "assets/buck/icon.png"
 description = "${mod_description}"
 
 [[mixins]]

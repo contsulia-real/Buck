@@ -5,6 +5,13 @@
   "name": "${mod_name}",
   "description": "${mod_description}",
   "license": "${mod_license}",
+  "authors": ["Contsulia"],
+  "contact": {
+    "homepage": "https://github.com/contsulia-real/Buck",
+    "sources": "https://github.com/contsulia-real/Buck",
+    "issues": "https://github.com/contsulia-real/Buck/issues"
+  },
+  "icon": "assets/buck/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
