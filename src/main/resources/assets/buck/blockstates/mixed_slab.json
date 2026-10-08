@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "buck:block/mixed_slab"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "buck:vertical_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_exposed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_oxidized_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_waxed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_waxed_exposed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_waxed_oxidized_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_waxed_weathered_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_weathered_cut_copper_slab",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.buck.mixin",
+  "mixins": [
+    "BlockItemMixin",
+    "ServerPlayerGameModeMixin"
+  ],
+  "client": [
+    "MultiPlayerGameModeMixin",
+    "MixedSlabBrightnessMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

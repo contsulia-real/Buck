@@ -1,0 +1,57 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "buck:vertical_acacia_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_bamboo_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_birch_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_cherry_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_crimson_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_dark_oak_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_jungle_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_mangrove_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_oak_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_pale_oak_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_poplar_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_spruce_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_warped_slab",
+      "required": false
+    }
+  ]
+}

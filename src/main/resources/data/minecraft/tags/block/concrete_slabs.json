@@ -1,0 +1,69 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "buck:vertical_black_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_blue_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_brown_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_cyan_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_gray_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_green_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_light_blue_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_light_gray_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_lime_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_magenta_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_orange_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_pink_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_purple_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_red_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_white_concrete_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_yellow_concrete_slab",
+      "required": false
+    }
+  ]
+}

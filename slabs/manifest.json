@@ -1,0 +1,735 @@
+{
+  "versions": {
+    "1.20.1": [
+      "acacia_slab",
+      "andesite_slab",
+      "bamboo_mosaic_slab",
+      "bamboo_slab",
+      "birch_slab",
+      "blackstone_slab",
+      "brick_slab",
+      "cherry_slab",
+      "cobbled_deepslate_slab",
+      "cobblestone_slab",
+      "crimson_slab",
+      "cut_copper_slab",
+      "cut_red_sandstone_slab",
+      "cut_sandstone_slab",
+      "dark_oak_slab",
+      "dark_prismarine_slab",
+      "deepslate_brick_slab",
+      "deepslate_tile_slab",
+      "diorite_slab",
+      "end_stone_brick_slab",
+      "exposed_cut_copper_slab",
+      "granite_slab",
+      "jungle_slab",
+      "mangrove_slab",
+      "mossy_cobblestone_slab",
+      "mossy_stone_brick_slab",
+      "mud_brick_slab",
+      "nether_brick_slab",
+      "oak_slab",
+      "oxidized_cut_copper_slab",
+      "petrified_oak_slab",
+      "polished_andesite_slab",
+      "polished_blackstone_brick_slab",
+      "polished_blackstone_slab",
+      "polished_deepslate_slab",
+      "polished_diorite_slab",
+      "polished_granite_slab",
+      "prismarine_brick_slab",
+      "prismarine_slab",
+      "purpur_slab",
+      "quartz_slab",
+      "red_nether_brick_slab",
+      "red_sandstone_slab",
+      "sandstone_slab",
+      "smooth_quartz_slab",
+      "smooth_red_sandstone_slab",
+      "smooth_sandstone_slab",
+      "smooth_stone_slab",
+      "spruce_slab",
+      "stone_brick_slab",
+      "stone_slab",
+      "warped_slab",
+      "waxed_cut_copper_slab",
+      "waxed_exposed_cut_copper_slab",
+      "waxed_oxidized_cut_copper_slab",
+      "waxed_weathered_cut_copper_slab",
+      "weathered_cut_copper_slab"
+    ],
+    "1.21.1": [
+      "acacia_slab",
+      "andesite_slab",
+      "bamboo_mosaic_slab",
+      "bamboo_slab",
+      "birch_slab",
+      "blackstone_slab",
+      "brick_slab",
+      "cherry_slab",
+      "cobbled_deepslate_slab",
+      "cobblestone_slab",
+      "crimson_slab",
+      "cut_copper_slab",
+      "cut_red_sandstone_slab",
+      "cut_sandstone_slab",
+      "dark_oak_slab",
+      "dark_prismarine_slab",
+      "deepslate_brick_slab",
+      "deepslate_tile_slab",
+      "diorite_slab",
+      "end_stone_brick_slab",
+      "exposed_cut_copper_slab",
+      "granite_slab",
+      "jungle_slab",
+      "mangrove_slab",
+      "mossy_cobblestone_slab",
+      "mossy_stone_brick_slab",
+      "mud_brick_slab",
+      "nether_brick_slab",
+      "oak_slab",
+      "oxidized_cut_copper_slab",
+      "petrified_oak_slab",
+      "polished_andesite_slab",
+      "polished_blackstone_brick_slab",
+      "polished_blackstone_slab",
+      "polished_deepslate_slab",
+      "polished_diorite_slab",
+      "polished_granite_slab",
+      "polished_tuff_slab",
+      "prismarine_brick_slab",
+      "prismarine_slab",
+      "purpur_slab",
+      "quartz_slab",
+      "red_nether_brick_slab",
+      "red_sandstone_slab",
+      "sandstone_slab",
+      "smooth_quartz_slab",
+      "smooth_red_sandstone_slab",
+      "smooth_sandstone_slab",
+      "smooth_stone_slab",
+      "spruce_slab",
+      "stone_brick_slab",
+      "stone_slab",
+      "tuff_brick_slab",
+      "tuff_slab",
+      "warped_slab",
+      "waxed_cut_copper_slab",
+      "waxed_exposed_cut_copper_slab",
+      "waxed_oxidized_cut_copper_slab",
+      "waxed_weathered_cut_copper_slab",
+      "weathered_cut_copper_slab"
+    ],
+    "26.3": [
+      "acacia_slab",
+      "andesite_slab",
+      "bamboo_mosaic_slab",
+      "bamboo_slab",
+      "birch_slab",
+      "black_concrete_slab",
+      "black_wool_slab",
+      "blackstone_slab",
+      "blue_concrete_slab",
+      "blue_wool_slab",
+      "brick_slab",
+      "brown_concrete_slab",
+      "brown_wool_slab",
+      "cherry_slab",
+      "cinnabar_brick_slab",
+      "cinnabar_slab",
+      "cobbled_deepslate_slab",
+      "cobblestone_slab",
+      "crimson_slab",
+      "cut_copper_slab",
+      "cut_red_sandstone_slab",
+      "cut_sandstone_slab",
+      "cyan_concrete_slab",
+      "cyan_wool_slab",
+      "dark_oak_slab",
+      "dark_prismarine_slab",
+      "deepslate_brick_slab",
+      "deepslate_tile_slab",
+      "diorite_slab",
+      "end_stone_brick_slab",
+      "exposed_cut_copper_slab",
+      "granite_slab",
+      "gray_concrete_slab",
+      "gray_wool_slab",
+      "green_concrete_slab",
+      "green_wool_slab",
+      "jungle_slab",
+      "light_blue_concrete_slab",
+      "light_blue_wool_slab",
+      "light_gray_concrete_slab",
+      "light_gray_wool_slab",
+      "lime_concrete_slab",
+      "lime_wool_slab",
+      "magenta_concrete_slab",
+      "magenta_wool_slab",
+      "mangrove_slab",
+      "mossy_cobblestone_slab",
+      "mossy_stone_brick_slab",
+      "mud_brick_slab",
+      "nether_brick_slab",
+      "oak_slab",
+      "orange_concrete_slab",
+      "orange_wool_slab",
+      "oxidized_cut_copper_slab",
+      "pale_oak_slab",
+      "petrified_oak_slab",
+      "pink_concrete_slab",
+      "pink_wool_slab",
+      "polished_andesite_slab",
+      "polished_blackstone_brick_slab",
+      "polished_blackstone_slab",
+      "polished_cinnabar_slab",
+      "polished_deepslate_slab",
+      "polished_diorite_slab",
+      "polished_granite_slab",
+      "polished_sulfur_slab",
+      "polished_tuff_slab",
+      "poplar_slab",
+      "prismarine_brick_slab",
+      "prismarine_slab",
+      "purple_concrete_slab",
+      "purple_wool_slab",
+      "purpur_slab",
+      "quartz_slab",
+      "red_concrete_slab",
+      "red_nether_brick_slab",
+      "red_sandstone_slab",
+      "red_wool_slab",
+      "resin_brick_slab",
+      "sandstone_slab",
+      "smooth_quartz_slab",
+      "smooth_red_sandstone_slab",
+      "smooth_sandstone_slab",
+      "smooth_stone_slab",
+      "spruce_slab",
+      "stone_brick_slab",
+      "stone_slab",
+      "sulfur_brick_slab",
+      "sulfur_slab",
+      "tuff_brick_slab",
+      "tuff_slab",
+      "warped_slab",
+      "waxed_cut_copper_slab",
+      "waxed_exposed_cut_copper_slab",
+      "waxed_oxidized_cut_copper_slab",
+      "waxed_weathered_cut_copper_slab",
+      "weathered_cut_copper_slab",
+      "white_concrete_slab",
+      "white_wool_slab",
+      "yellow_concrete_slab",
+      "yellow_wool_slab"
+    ]
+  },
+  "models": {
+    "waxed_oxidized_cut_copper_slab": {
+      "bottom": "minecraft:block/oxidized_cut_copper_slab",
+      "top": "minecraft:block/oxidized_cut_copper_slab_top",
+      "double": "minecraft:block/oxidized_cut_copper"
+    },
+    "weathered_cut_copper_slab": {
+      "bottom": "minecraft:block/weathered_cut_copper_slab",
+      "top": "minecraft:block/weathered_cut_copper_slab_top",
+      "double": "minecraft:block/weathered_cut_copper"
+    },
+    "waxed_weathered_cut_copper_slab": {
+      "bottom": "minecraft:block/weathered_cut_copper_slab",
+      "top": "minecraft:block/weathered_cut_copper_slab_top",
+      "double": "minecraft:block/weathered_cut_copper"
+    },
+    "waxed_cut_copper_slab": {
+      "bottom": "minecraft:block/cut_copper_slab",
+      "top": "minecraft:block/cut_copper_slab_top",
+      "double": "minecraft:block/cut_copper"
+    },
+    "warped_slab": {
+      "bottom": "minecraft:block/warped_slab",
+      "top": "minecraft:block/warped_slab_top",
+      "double": "minecraft:block/warped_planks"
+    },
+    "waxed_exposed_cut_copper_slab": {
+      "bottom": "minecraft:block/exposed_cut_copper_slab",
+      "top": "minecraft:block/exposed_cut_copper_slab_top",
+      "double": "minecraft:block/exposed_cut_copper"
+    },
+    "spruce_slab": {
+      "bottom": "minecraft:block/spruce_slab",
+      "top": "minecraft:block/spruce_slab_top",
+      "double": "minecraft:block/spruce_planks"
+    },
+    "stone_brick_slab": {
+      "bottom": "minecraft:block/stone_brick_slab",
+      "top": "minecraft:block/stone_brick_slab_top",
+      "double": "minecraft:block/stone_bricks"
+    },
+    "stone_slab": {
+      "bottom": "minecraft:block/stone_slab",
+      "top": "minecraft:block/stone_slab_top",
+      "double": "minecraft:block/stone"
+    },
+    "smooth_red_sandstone_slab": {
+      "bottom": "minecraft:block/smooth_red_sandstone_slab",
+      "top": "minecraft:block/smooth_red_sandstone_slab_top",
+      "double": "minecraft:block/smooth_red_sandstone"
+    },
+    "smooth_quartz_slab": {
+      "bottom": "minecraft:block/smooth_quartz_slab",
+      "top": "minecraft:block/smooth_quartz_slab_top",
+      "double": "minecraft:block/smooth_quartz"
+    },
+    "sandstone_slab": {
+      "bottom": "minecraft:block/sandstone_slab",
+      "top": "minecraft:block/sandstone_slab_top",
+      "double": "minecraft:block/sandstone"
+    },
+    "smooth_stone_slab": {
+      "bottom": "minecraft:block/smooth_stone_slab",
+      "top": "minecraft:block/smooth_stone_slab_top",
+      "double": "minecraft:block/smooth_stone_slab_double"
+    },
+    "smooth_sandstone_slab": {
+      "bottom": "minecraft:block/smooth_sandstone_slab",
+      "top": "minecraft:block/smooth_sandstone_slab_top",
+      "double": "minecraft:block/smooth_sandstone"
+    },
+    "red_sandstone_slab": {
+      "bottom": "minecraft:block/red_sandstone_slab",
+      "top": "minecraft:block/red_sandstone_slab_top",
+      "double": "minecraft:block/red_sandstone"
+    },
+    "quartz_slab": {
+      "bottom": "minecraft:block/quartz_slab",
+      "top": "minecraft:block/quartz_slab_top",
+      "double": "minecraft:block/quartz_block"
+    },
+    "red_nether_brick_slab": {
+      "bottom": "minecraft:block/red_nether_brick_slab",
+      "top": "minecraft:block/red_nether_brick_slab_top",
+      "double": "minecraft:block/red_nether_bricks"
+    },
+    "purpur_slab": {
+      "bottom": "minecraft:block/purpur_slab",
+      "top": "minecraft:block/purpur_slab_top",
+      "double": "minecraft:block/purpur_block"
+    },
+    "prismarine_slab": {
+      "bottom": "minecraft:block/prismarine_slab",
+      "top": "minecraft:block/prismarine_slab_top",
+      "double": "minecraft:block/prismarine"
+    },
+    "prismarine_brick_slab": {
+      "bottom": "minecraft:block/prismarine_brick_slab",
+      "top": "minecraft:block/prismarine_brick_slab_top",
+      "double": "minecraft:block/prismarine_bricks"
+    },
+    "polished_diorite_slab": {
+      "bottom": "minecraft:block/polished_diorite_slab",
+      "top": "minecraft:block/polished_diorite_slab_top",
+      "double": "minecraft:block/polished_diorite"
+    },
+    "polished_deepslate_slab": {
+      "bottom": "minecraft:block/polished_deepslate_slab",
+      "top": "minecraft:block/polished_deepslate_slab_top",
+      "double": "minecraft:block/polished_deepslate"
+    },
+    "polished_granite_slab": {
+      "bottom": "minecraft:block/polished_granite_slab",
+      "top": "minecraft:block/polished_granite_slab_top",
+      "double": "minecraft:block/polished_granite"
+    },
+    "polished_blackstone_brick_slab": {
+      "bottom": "minecraft:block/polished_blackstone_brick_slab",
+      "top": "minecraft:block/polished_blackstone_brick_slab_top",
+      "double": "minecraft:block/polished_blackstone_bricks"
+    },
+    "polished_andesite_slab": {
+      "bottom": "minecraft:block/polished_andesite_slab",
+      "top": "minecraft:block/polished_andesite_slab_top",
+      "double": "minecraft:block/polished_andesite"
+    },
+    "polished_blackstone_slab": {
+      "bottom": "minecraft:block/polished_blackstone_slab",
+      "top": "minecraft:block/polished_blackstone_slab_top",
+      "double": "minecraft:block/polished_blackstone"
+    },
+    "petrified_oak_slab": {
+      "bottom": "minecraft:block/petrified_oak_slab",
+      "top": "minecraft:block/petrified_oak_slab_top",
+      "double": "minecraft:block/oak_planks"
+    },
+    "oxidized_cut_copper_slab": {
+      "bottom": "minecraft:block/oxidized_cut_copper_slab",
+      "top": "minecraft:block/oxidized_cut_copper_slab_top",
+      "double": "minecraft:block/oxidized_cut_copper"
+    },
+    "oak_slab": {
+      "bottom": "minecraft:block/oak_slab",
+      "top": "minecraft:block/oak_slab_top",
+      "double": "minecraft:block/oak_planks"
+    },
+    "nether_brick_slab": {
+      "bottom": "minecraft:block/nether_brick_slab",
+      "top": "minecraft:block/nether_brick_slab_top",
+      "double": "minecraft:block/nether_bricks"
+    },
+    "mud_brick_slab": {
+      "bottom": "minecraft:block/mud_brick_slab",
+      "top": "minecraft:block/mud_brick_slab_top",
+      "double": "minecraft:block/mud_bricks"
+    },
+    "mossy_cobblestone_slab": {
+      "bottom": "minecraft:block/mossy_cobblestone_slab",
+      "top": "minecraft:block/mossy_cobblestone_slab_top",
+      "double": "minecraft:block/mossy_cobblestone"
+    },
+    "mangrove_slab": {
+      "bottom": "minecraft:block/mangrove_slab",
+      "top": "minecraft:block/mangrove_slab_top",
+      "double": "minecraft:block/mangrove_planks"
+    },
+    "mossy_stone_brick_slab": {
+      "bottom": "minecraft:block/mossy_stone_brick_slab",
+      "top": "minecraft:block/mossy_stone_brick_slab_top",
+      "double": "minecraft:block/mossy_stone_bricks"
+    },
+    "jungle_slab": {
+      "bottom": "minecraft:block/jungle_slab",
+      "top": "minecraft:block/jungle_slab_top",
+      "double": "minecraft:block/jungle_planks"
+    },
+    "granite_slab": {
+      "bottom": "minecraft:block/granite_slab",
+      "top": "minecraft:block/granite_slab_top",
+      "double": "minecraft:block/granite"
+    },
+    "exposed_cut_copper_slab": {
+      "bottom": "minecraft:block/exposed_cut_copper_slab",
+      "top": "minecraft:block/exposed_cut_copper_slab_top",
+      "double": "minecraft:block/exposed_cut_copper"
+    },
+    "diorite_slab": {
+      "bottom": "minecraft:block/diorite_slab",
+      "top": "minecraft:block/diorite_slab_top",
+      "double": "minecraft:block/diorite"
+    },
+    "end_stone_brick_slab": {
+      "bottom": "minecraft:block/end_stone_brick_slab",
+      "top": "minecraft:block/end_stone_brick_slab_top",
+      "double": "minecraft:block/end_stone_bricks"
+    },
+    "deepslate_tile_slab": {
+      "bottom": "minecraft:block/deepslate_tile_slab",
+      "top": "minecraft:block/deepslate_tile_slab_top",
+      "double": "minecraft:block/deepslate_tiles"
+    },
+    "deepslate_brick_slab": {
+      "bottom": "minecraft:block/deepslate_brick_slab",
+      "top": "minecraft:block/deepslate_brick_slab_top",
+      "double": "minecraft:block/deepslate_bricks"
+    },
+    "dark_prismarine_slab": {
+      "bottom": "minecraft:block/dark_prismarine_slab",
+      "top": "minecraft:block/dark_prismarine_slab_top",
+      "double": "minecraft:block/dark_prismarine"
+    },
+    "dark_oak_slab": {
+      "bottom": "minecraft:block/dark_oak_slab",
+      "top": "minecraft:block/dark_oak_slab_top",
+      "double": "minecraft:block/dark_oak_planks"
+    },
+    "crimson_slab": {
+      "bottom": "minecraft:block/crimson_slab",
+      "top": "minecraft:block/crimson_slab_top",
+      "double": "minecraft:block/crimson_planks"
+    },
+    "cut_copper_slab": {
+      "bottom": "minecraft:block/cut_copper_slab",
+      "top": "minecraft:block/cut_copper_slab_top",
+      "double": "minecraft:block/cut_copper"
+    },
+    "cut_sandstone_slab": {
+      "bottom": "minecraft:block/cut_sandstone_slab",
+      "top": "minecraft:block/cut_sandstone_slab_top",
+      "double": "minecraft:block/cut_sandstone"
+    },
+    "cut_red_sandstone_slab": {
+      "bottom": "minecraft:block/cut_red_sandstone_slab",
+      "top": "minecraft:block/cut_red_sandstone_slab_top",
+      "double": "minecraft:block/cut_red_sandstone"
+    },
+    "cobblestone_slab": {
+      "bottom": "minecraft:block/cobblestone_slab",
+      "top": "minecraft:block/cobblestone_slab_top",
+      "double": "minecraft:block/cobblestone"
+    },
+    "cobbled_deepslate_slab": {
+      "bottom": "minecraft:block/cobbled_deepslate_slab",
+      "top": "minecraft:block/cobbled_deepslate_slab_top",
+      "double": "minecraft:block/cobbled_deepslate"
+    },
+    "cherry_slab": {
+      "bottom": "minecraft:block/cherry_slab",
+      "top": "minecraft:block/cherry_slab_top",
+      "double": "minecraft:block/cherry_planks"
+    },
+    "brick_slab": {
+      "bottom": "minecraft:block/brick_slab",
+      "top": "minecraft:block/brick_slab_top",
+      "double": "minecraft:block/bricks"
+    },
+    "blackstone_slab": {
+      "bottom": "minecraft:block/blackstone_slab",
+      "top": "minecraft:block/blackstone_slab_top",
+      "double": "minecraft:block/blackstone"
+    },
+    "birch_slab": {
+      "bottom": "minecraft:block/birch_slab",
+      "top": "minecraft:block/birch_slab_top",
+      "double": "minecraft:block/birch_planks"
+    },
+    "bamboo_slab": {
+      "bottom": "minecraft:block/bamboo_slab",
+      "top": "minecraft:block/bamboo_slab_top",
+      "double": "minecraft:block/bamboo_planks"
+    },
+    "acacia_slab": {
+      "bottom": "minecraft:block/acacia_slab",
+      "top": "minecraft:block/acacia_slab_top",
+      "double": "minecraft:block/acacia_planks"
+    },
+    "bamboo_mosaic_slab": {
+      "bottom": "minecraft:block/bamboo_mosaic_slab",
+      "top": "minecraft:block/bamboo_mosaic_slab_top",
+      "double": "minecraft:block/bamboo_mosaic"
+    },
+    "andesite_slab": {
+      "bottom": "minecraft:block/andesite_slab",
+      "top": "minecraft:block/andesite_slab_top",
+      "double": "minecraft:block/andesite"
+    },
+    "tuff_brick_slab": {
+      "bottom": "minecraft:block/tuff_brick_slab",
+      "top": "minecraft:block/tuff_brick_slab_top",
+      "double": "minecraft:block/tuff_bricks"
+    },
+    "tuff_slab": {
+      "bottom": "minecraft:block/tuff_slab",
+      "top": "minecraft:block/tuff_slab_top",
+      "double": "minecraft:block/tuff"
+    },
+    "polished_tuff_slab": {
+      "bottom": "minecraft:block/polished_tuff_slab",
+      "top": "minecraft:block/polished_tuff_slab_top",
+      "double": "minecraft:block/polished_tuff"
+    },
+    "black_concrete_slab": {
+      "bottom": "minecraft:block/black_concrete_slab",
+      "top": "minecraft:block/black_concrete_slab_top",
+      "double": "minecraft:block/black_concrete"
+    },
+    "blue_wool_slab": {
+      "bottom": "minecraft:block/blue_wool_slab",
+      "top": "minecraft:block/blue_wool_slab_top",
+      "double": "minecraft:block/blue_wool"
+    },
+    "black_wool_slab": {
+      "bottom": "minecraft:block/black_wool_slab",
+      "top": "minecraft:block/black_wool_slab_top",
+      "double": "minecraft:block/black_wool"
+    },
+    "blue_concrete_slab": {
+      "bottom": "minecraft:block/blue_concrete_slab",
+      "top": "minecraft:block/blue_concrete_slab_top",
+      "double": "minecraft:block/blue_concrete"
+    },
+    "brown_concrete_slab": {
+      "bottom": "minecraft:block/brown_concrete_slab",
+      "top": "minecraft:block/brown_concrete_slab_top",
+      "double": "minecraft:block/brown_concrete"
+    },
+    "brown_wool_slab": {
+      "bottom": "minecraft:block/brown_wool_slab",
+      "top": "minecraft:block/brown_wool_slab_top",
+      "double": "minecraft:block/brown_wool"
+    },
+    "cinnabar_brick_slab": {
+      "bottom": "minecraft:block/cinnabar_brick_slab",
+      "top": "minecraft:block/cinnabar_brick_slab_top",
+      "double": "minecraft:block/cinnabar_bricks"
+    },
+    "cyan_concrete_slab": {
+      "bottom": "minecraft:block/cyan_concrete_slab",
+      "top": "minecraft:block/cyan_concrete_slab_top",
+      "double": "minecraft:block/cyan_concrete"
+    },
+    "cyan_wool_slab": {
+      "bottom": "minecraft:block/cyan_wool_slab",
+      "top": "minecraft:block/cyan_wool_slab_top",
+      "double": "minecraft:block/cyan_wool"
+    },
+    "cinnabar_slab": {
+      "bottom": "minecraft:block/cinnabar_slab",
+      "top": "minecraft:block/cinnabar_slab_top",
+      "double": "minecraft:block/cinnabar"
+    },
+    "gray_concrete_slab": {
+      "bottom": "minecraft:block/gray_concrete_slab",
+      "top": "minecraft:block/gray_concrete_slab_top",
+      "double": "minecraft:block/gray_concrete"
+    },
+    "gray_wool_slab": {
+      "bottom": "minecraft:block/gray_wool_slab",
+      "top": "minecraft:block/gray_wool_slab_top",
+      "double": "minecraft:block/gray_wool"
+    },
+    "green_concrete_slab": {
+      "bottom": "minecraft:block/green_concrete_slab",
+      "top": "minecraft:block/green_concrete_slab_top",
+      "double": "minecraft:block/green_concrete"
+    },
+    "green_wool_slab": {
+      "bottom": "minecraft:block/green_wool_slab",
+      "top": "minecraft:block/green_wool_slab_top",
+      "double": "minecraft:block/green_wool"
+    },
+    "light_gray_concrete_slab": {
+      "bottom": "minecraft:block/light_gray_concrete_slab",
+      "top": "minecraft:block/light_gray_concrete_slab_top",
+      "double": "minecraft:block/light_gray_concrete"
+    },
+    "light_blue_wool_slab": {
+      "bottom": "minecraft:block/light_blue_wool_slab",
+      "top": "minecraft:block/light_blue_wool_slab_top",
+      "double": "minecraft:block/light_blue_wool"
+    },
+    "light_blue_concrete_slab": {
+      "bottom": "minecraft:block/light_blue_concrete_slab",
+      "top": "minecraft:block/light_blue_concrete_slab_top",
+      "double": "minecraft:block/light_blue_concrete"
+    },
+    "light_gray_wool_slab": {
+      "bottom": "minecraft:block/light_gray_wool_slab",
+      "top": "minecraft:block/light_gray_wool_slab_top",
+      "double": "minecraft:block/light_gray_wool"
+    },
+    "lime_concrete_slab": {
+      "bottom": "minecraft:block/lime_concrete_slab",
+      "top": "minecraft:block/lime_concrete_slab_top",
+      "double": "minecraft:block/lime_concrete"
+    },
+    "lime_wool_slab": {
+      "bottom": "minecraft:block/lime_wool_slab",
+      "top": "minecraft:block/lime_wool_slab_top",
+      "double": "minecraft:block/lime_wool"
+    },
+    "magenta_concrete_slab": {
+      "bottom": "minecraft:block/magenta_concrete_slab",
+      "top": "minecraft:block/magenta_concrete_slab_top",
+      "double": "minecraft:block/magenta_concrete"
+    },
+    "magenta_wool_slab": {
+      "bottom": "minecraft:block/magenta_wool_slab",
+      "top": "minecraft:block/magenta_wool_slab_top",
+      "double": "minecraft:block/magenta_wool"
+    },
+    "orange_concrete_slab": {
+      "bottom": "minecraft:block/orange_concrete_slab",
+      "top": "minecraft:block/orange_concrete_slab_top",
+      "double": "minecraft:block/orange_concrete"
+    },
+    "orange_wool_slab": {
+      "bottom": "minecraft:block/orange_wool_slab",
+      "top": "minecraft:block/orange_wool_slab_top",
+      "double": "minecraft:block/orange_wool"
+    },
+    "pink_concrete_slab": {
+      "bottom": "minecraft:block/pink_concrete_slab",
+      "top": "minecraft:block/pink_concrete_slab_top",
+      "double": "minecraft:block/pink_concrete"
+    },
+    "pale_oak_slab": {
+      "bottom": "minecraft:block/pale_oak_slab",
+      "top": "minecraft:block/pale_oak_slab_top",
+      "double": "minecraft:block/pale_oak_planks"
+    },
+    "pink_wool_slab": {
+      "bottom": "minecraft:block/pink_wool_slab",
+      "top": "minecraft:block/pink_wool_slab_top",
+      "double": "minecraft:block/pink_wool"
+    },
+    "polished_cinnabar_slab": {
+      "bottom": "minecraft:block/polished_cinnabar_slab",
+      "top": "minecraft:block/polished_cinnabar_slab_top",
+      "double": "minecraft:block/polished_cinnabar"
+    },
+    "polished_sulfur_slab": {
+      "bottom": "minecraft:block/polished_sulfur_slab",
+      "top": "minecraft:block/polished_sulfur_slab_top",
+      "double": "minecraft:block/polished_sulfur"
+    },
+    "poplar_slab": {
+      "bottom": "minecraft:block/poplar_slab",
+      "top": "minecraft:block/poplar_slab_top",
+      "double": "minecraft:block/poplar_planks"
+    },
+    "purple_concrete_slab": {
+      "bottom": "minecraft:block/purple_concrete_slab",
+      "top": "minecraft:block/purple_concrete_slab_top",
+      "double": "minecraft:block/purple_concrete"
+    },
+    "purple_wool_slab": {
+      "bottom": "minecraft:block/purple_wool_slab",
+      "top": "minecraft:block/purple_wool_slab_top",
+      "double": "minecraft:block/purple_wool"
+    },
+    "red_concrete_slab": {
+      "bottom": "minecraft:block/red_concrete_slab",
+      "top": "minecraft:block/red_concrete_slab_top",
+      "double": "minecraft:block/red_concrete"
+    },
+    "red_wool_slab": {
+      "bottom": "minecraft:block/red_wool_slab",
+      "top": "minecraft:block/red_wool_slab_top",
+      "double": "minecraft:block/red_wool"
+    },
+    "resin_brick_slab": {
+      "bottom": "minecraft:block/resin_brick_slab",
+      "top": "minecraft:block/resin_brick_slab_top",
+      "double": "minecraft:block/resin_bricks"
+    },
+    "sulfur_brick_slab": {
+      "bottom": "minecraft:block/sulfur_brick_slab",
+      "top": "minecraft:block/sulfur_brick_slab_top",
+      "double": "minecraft:block/sulfur_bricks"
+    },
+    "sulfur_slab": {
+      "bottom": "minecraft:block/sulfur_slab",
+      "top": "minecraft:block/sulfur_slab_top",
+      "double": "minecraft:block/sulfur"
+    },
+    "white_concrete_slab": {
+      "bottom": "minecraft:block/white_concrete_slab",
+      "top": "minecraft:block/white_concrete_slab_top",
+      "double": "minecraft:block/white_concrete"
+    },
+    "yellow_concrete_slab": {
+      "bottom": "minecraft:block/yellow_concrete_slab",
+      "top": "minecraft:block/yellow_concrete_slab_top",
+      "double": "minecraft:block/yellow_concrete"
+    },
+    "white_wool_slab": {
+      "bottom": "minecraft:block/white_wool_slab",
+      "top": "minecraft:block/white_wool_slab_top",
+      "double": "minecraft:block/white_wool"
+    },
+    "yellow_wool_slab": {
+      "bottom": "minecraft:block/yellow_wool_slab",
+      "top": "minecraft:block/yellow_wool_slab_top",
+      "double": "minecraft:block/yellow_wool"
+    }
+  }
+}

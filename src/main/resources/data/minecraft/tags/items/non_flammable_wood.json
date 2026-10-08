@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "buck:vertical_crimson_slab",
+      "required": false
+    },
+    {
+      "id": "buck:vertical_warped_slab",
+      "required": false
+    }
+  ]
+}

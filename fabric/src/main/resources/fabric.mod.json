@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "${mod_id}",
+  "version": "${mod_version}",
+  "name": "${mod_name}",
+  "description": "${mod_description}",
+  "license": "${mod_license}",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.buck.fabric.BuckFabric"
+    ],
+    "client": [
+      "dev.buck.fabric.BuckFabricClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "architectury": ">=${architectury_version}",
+    "minecraft": "${minecraft_version}"
+  },
+  "mixins": [
+    "buck.mixins.json"
+  ]
+}

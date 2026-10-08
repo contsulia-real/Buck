@@ -1,0 +1,12 @@
+.gradle/
+.architectury-transformer/
+.idea/
+out/
+build/
+versions/*/build/
+versions/*/.gradle/
+fabric/versions/
+forge/versions/
+neoforge/versions/
+run/
+*.iml

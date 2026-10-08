@@ -1,0 +1,18 @@
+# https://help.github.com/articles/dealing-with-line-endings/
+
+# Normalize everything to LF by default, regardless of a contributor's local
+# core.autocrlf setting.
+* text=auto eol=lf
+
+# Windows batch scripts need CRLF to run correctly from cmd.exe.
+*.bat text eol=crlf
+
+# Never let git rewrite line endings in binaries.
+*.jar binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+
+gradle/wrapper/gradle-wrapper.jar binary
